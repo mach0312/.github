@@ -38,5 +38,6 @@ ros2 run <package_name> mpc_controller --ros-args -p horizon:=30
 
 ## Contact
 Maintainer: **[성명] - email**
+
 **Please leave any questions/issues as GitHub Issues!**
 
